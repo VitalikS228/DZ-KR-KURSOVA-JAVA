@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.sewaggg"},{"l":"com.sewaggg.models"},{"l":"com.sewaggg.utils"},{"l":"com.sewaggg.views"}];updateSearchResults();
