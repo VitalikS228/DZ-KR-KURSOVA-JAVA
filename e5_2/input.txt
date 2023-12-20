@@ -1,0 +1,17 @@
+This
+
+is a
+small
+example
+
+of
+
+
+text file
+
+that contains
+
+
+
+
+empty strings
